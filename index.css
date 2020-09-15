@@ -49,6 +49,7 @@ body{
 }
 
 #second{
+    background: red;
     width: 1%;
     height: 41%;
     top: 9%;
